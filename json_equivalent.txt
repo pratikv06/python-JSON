@@ -1,0 +1,16 @@
+{
+    "array": [
+        "list",
+        "tuple"
+    ],
+    "false": "False",
+    "json": "python",
+    "null": "None",
+    "number": [
+        "int",
+        "float"
+    ],
+    "object": "dict",
+    "string": "str",
+    "true": "True"
+}
